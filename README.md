@@ -8,7 +8,7 @@ The study compares linear and neural network calibration methods for a 4×4 Velo
 ## Repository contents
 - `Velostat_Calibration_Pipeline.ipynb` — notebook containing the complete calibration and modelling pipeline.
 - `data.zip` — experimental dataset collected separately during the study and subsequently used by the notebook, available from the `Releases` section of this repository.
-- `Supporting_Technical_Document.pdf` — supplementary materials accompanying the manuscript.
+- `Supporting-Technical-Document.pdf` — supplementary materials accompanying the manuscript.
 - `.gitignore` — excludes temporary Python and Jupyter files from version control.
 
 ## Dataset
